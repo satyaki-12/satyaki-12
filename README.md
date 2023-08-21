@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Satyaki Datta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1107512/screenshots/3997677/_g.gif">
-- 🌱 I’m currently learning **Data Stuctures and Algorithm**
+- 🌱 I’m currently learning Data Stuctures and Algorithm
 
 - 📫 How to reach me **dattsatyakisps9@gmail.com**
 
