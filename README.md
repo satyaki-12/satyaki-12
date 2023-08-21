@@ -15,11 +15,7 @@
       
     
     
-<!-- <a href="https://instagram.com/_satyaki._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_satyaki._" height="30" width="40" /></a> 
-    <a href="https://linkedin.com/in/satyaki-5a2548228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satyaki-5a2548228" height="30" width="40" /></a> -->
-<!--<a href="https://fb.com/satyakidatta22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="satyakidatta22" height="30" width="40" /></a>
-<a href="https://twitter.com/satyakidat84679" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="satyakidat84679" height="30" width="40" /></a>
-</p> -->
+
 
 ## 💻 Tech Stack:
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)]() [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)]() [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
