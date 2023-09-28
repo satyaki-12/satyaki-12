@@ -2,10 +2,14 @@
 <h1 align="center">Hi 👋, I'm Satyaki Datta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1107512/screenshots/3997677/_g.gif">
--🌱 I’m currently learning Data Stuctures and Algorithm and learning React/Next-Js.
--🌱 Working on a Weather App Application.
 
-- 📫 How to reach me **dattsatyakisps9@gmail.com**
+-🎓  I'm currently studying Mechanical Engineering at National Institute of Technology, Agartala.
+
+-🌱 I’m at present brushing up learning Data Stuctures and Algorithm concepts.
+
+-💡  I find delight in working with React/Next Js,JavaScript,APIS related stuffs and curently exploring the MERN Stack.
+
+-📫 Reach me at **dattasatyakisps9@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,8 +25,11 @@
 ## 💻 Tech Stack:
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)]() [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)]() [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
 
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)]() [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)]() [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)]() 
+[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)]() [![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)]() [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)]() 
+
 [![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)]()
+[![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)]()
+
 
 <h2 align="left">👨‍💻 Coding profiles:</h2>
 <p align="left">
