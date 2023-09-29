@@ -7,7 +7,7 @@
 
 -🌱 I’m at present brushing up learning Data Stuctures and Algorithm concepts.
 
--💡  I find delight in working with React/Next Js,JavaScript,APIS related stuffs and curently exploring the MERN Stack.
+-💡  I find delight in working with React/Next Js,JavaScript,APIS related stuffs and currently exploring the MERN Stack.
 
 -📫 Reach me at **dattasatyakisps9@gmail.com**
 
